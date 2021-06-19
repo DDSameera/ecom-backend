@@ -18,4 +18,6 @@
  - Run ```npm install && npm dev``` 
  - Run ```php artisan storage:link```
  - Run ```php artisan serve```
+ - Run ```php artisan migrate:fresh```
+ - Run ```php artisan key:generate```
 
